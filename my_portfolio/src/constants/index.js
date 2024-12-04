@@ -1,7 +1,7 @@
-import project1 from "../assets/projects/project-1.webp";
-import project2 from "../assets/projects/project-2.webp";
-import project3 from "../assets/projects/project-3.webp";
-import project4 from "../assets/projects/project-4.webp";
+import project2 from "../assets/projects/project-1.webp";
+import project4 from "../assets/projects/project-2.webp";
+import project1 from "../assets/projects/project-3.webp";
+import project3 from "../assets/projects/project-4.webp";
 
 export const HERO_CONTENT = `I am a dedicated full stack developer with a talent for building robust and scalable web applications. Over 3 years of hands-on experience have allowed me to refine my expertise in front-end frameworks like React and Next.js, as well as back-end technologies such as Node.js and MySQL. My focus is on leveraging these skills to develop innovative solutions that foster business growth and provide outstanding user experiences.`;
 
@@ -70,7 +70,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "Urbanstrasse 131, Berlin, DE 10967 ",
+  address: "Kreuzberg, Berlin, DE 10967 ",
   phoneNo: "+49 1520 3962 704",
   email: "j.cleon695@gmail.com",
 };
