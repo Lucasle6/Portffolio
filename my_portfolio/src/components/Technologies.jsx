@@ -26,14 +26,14 @@ const Technologies = () => {
     <div className='pb-24'>
         <motion.h2 
             className='my-20 text-center text-4xl'
-            whileInView={{opacity: 1, y: 0}}
+            whileInView={{opacity: 1, x: 0}}
             initial={{opacity: 0, x: -100}}
             transition={{duration: 1.5}}>
                 Technologies
         </motion.h2>
         <motion.div 
             className='flex flex-wrap items-center justify-center gap-4'
-            whileInView={{opacity: 1, y: 0}}
+            whileInView={{opacity: 1, x: 0}}
             initial={{opacity: 0, x: -100}}
             transition={{duration: 1.5}}>
             <motion.div
