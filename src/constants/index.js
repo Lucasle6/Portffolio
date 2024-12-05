@@ -34,7 +34,7 @@ export const EXPERIENCES = [
     role: "Web Developer",
     company: "Coderhouse",
     description: `Diplomat in development of web applications using JavaScript, React.js, and Node.js. Managed databases and implemented data storage solutions using MySQL.`,
-    technologies: ["HTML", "CSS", "JS", "React, SQL, Node.js"],
+    technologies: ["HTML", "CSS", "JS", "React", "SQL", "Node.js"],
   },
 ];
 
